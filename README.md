@@ -2,6 +2,8 @@
 
 A 3D Pong clone that runs on **Windows**, **macOS**, and **Linux** using OpenGL 3.3, GLFW, and GLM.
 
+<img width="1294" height="769" alt="Screenshot 2026-02-02 182004" src="https://github.com/user-attachments/assets/8cab0ec9-fa47-4dc4-9a55-232eb16990ef" />
+
 ## Controls
 
 - **W/S** - Left paddle (Player 1)
