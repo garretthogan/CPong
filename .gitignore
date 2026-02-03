@@ -1,0 +1,29 @@
+# Build outputs
+out/
+build/
+
+# IDE
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# FetchContent downloads (re-fetched on build)
+_deps/
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug
+cpong_debug.txt
